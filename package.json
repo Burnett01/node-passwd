@@ -5,7 +5,7 @@
     "main" : "./passwd-groups.js",
     "repository" : {
         "type" : "git",
-        "url" : "https://github.com/Burnett01/node-passwd-groups.git"
+        "url" : "https://github.com/Burnett01/node-passwd.git"
     },
     "keywords" : [
         "/etc/passwd",
