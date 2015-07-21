@@ -1,23 +1,26 @@
 {
-    "name" : "passwd",
+    "name" : "passwd-groups",
     "version" : "0.0.11",
-    "description" : "Control /etc/passwd from node.js",
-    "main" : "./index.js",
+    "description" : "Control /etc/passwd and /etc/group",
+    "main" : "./passwd-groups.js",
     "repository" : {
         "type" : "git",
-        "url" : "https://github.com/pkrumins/node-passwd.git"
+        "url" : "https://github.com/Burnett01/node-passwd-groups.git"
     },
     "keywords" : [
         "/etc/passwd",
+        "/etc/group",
         "password",
-        "passwords"
+        "passwords",
+        "groups"
     ],
     "author" : {
-        "name" : "Peteris Krumins",
-        "email" : "peteris.krumins@gmail.com",
-        "url" : "http://www.catonmat.net",
-        "twitter" : "http://twitter.com/pkrumins"
+        "name" : "Steven Agy",
+        "email" : "s-8@posteo.mx"
     },
+    "contributors": [
+        {"name": "Peteris Krumins", "url": "http://www.catonmat.net", "email": "peteris.krumins@gmail.com"}
+    ],
     "license" : "MIT",
     "engine" : {
         "node" : ">=0.4.0"
