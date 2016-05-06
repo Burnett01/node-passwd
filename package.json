@@ -1,6 +1,6 @@
 {
     "name" : "passwd-groups",
-    "version" : "0.0.11",
+    "version" : "1.1.1",
     "description" : "Control /etc/passwd and /etc/group",
     "main" : "./passwd-groups.js",
     "repository" : {
@@ -21,8 +21,5 @@
     "contributors": [
         {"name": "Peteris Krumins", "url": "http://www.catonmat.net", "email": "peteris.krumins@gmail.com"}
     ],
-    "license" : "MIT",
-    "engine" : {
-        "node" : ">=0.4.0"
-    }
+    "license" : "MIT"
 }
