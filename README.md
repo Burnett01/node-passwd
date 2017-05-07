@@ -5,7 +5,7 @@ It was orginally written by Peteris Krumins (@pkrumins) (https://github.com/pkru
 Modified by @Burnett01 - now with [group(5)](http://linux.die.net/man/5/group)
 
 ------------------------------------------------------------------------------
-####Users
+## Users
 
 ```javascript
   var manager = require('passwd-groups');
@@ -57,7 +57,7 @@ A user-entry looks like:
 }
 ```
 
-####Groups
+### Groups
   
 ```javascript
   // add a new group
@@ -96,7 +96,7 @@ A group-entry looks like:
 }
 ```
 
-##API
+## API
 
 ```javascript
 
